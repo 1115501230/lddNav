@@ -1,6 +1,6 @@
-# 小神龙开源导航系统
+# 小神龙开源导航系统-双端适配！
 ![捕获](https://github.com/user-attachments/assets/70be78bd-55fe-4206-9fef-6bec7b7ca0a9)
-
+![捕获2](https://github.com/user-attachments/assets/19c3b50b-4151-44f2-b79d-6ba7b1427eb5)
 ## 环境要求
 - PHP 7.4+ 
 - SQLite3 扩展（可能需要手动开启）
