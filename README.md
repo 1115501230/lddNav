@@ -1,4 +1,4 @@
-# 小神龙导航系统
+# 小神龙开源导航系统
 ![捕获](https://github.com/user-attachments/assets/70be78bd-55fe-4206-9fef-6bec7b7ca0a9)
 
 ## 环境要求
