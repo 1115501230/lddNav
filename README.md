@@ -1,8 +1,9 @@
 # 小神龙导航系统
-![捕获](https://github.com/user-attachments/assets/70fed820-f010-4bc1-ae6a-2d3827282a92)
+![捕获](https://github.com/user-attachments/assets/70be78bd-55fe-4206-9fef-6bec7b7ca0a9)
+
 ## 环境要求
 - PHP 7.4+ 
-- SQLite3 扩展
+- SQLite3 扩展（可能需要手动开启）
 - 现代浏览器（支持CSS3和ES6）
 
 ## 核心功能
