@@ -1,5 +1,6 @@
 # 小神龙开源导航系统-双端适配！
-![捕获 PNG](https://github.com/user-attachments/assets/4a1d32f7-d25a-4f09-a3f0-dcdaf89f189a)
+![image](https://github.com/user-attachments/assets/8b62f4b9-967c-4d76-befd-ae5de7b5786f)
+
 
 ## 环境要求
 - PHP 7.4+ 
